@@ -5,5 +5,4 @@ def square_array(array)
     array[count] ** 2
     count++
   end
-  array
 end
